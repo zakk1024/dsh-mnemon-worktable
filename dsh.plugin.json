@@ -1,0 +1,12 @@
+{
+  "name": "dsh-mnemon-worktable",
+  "description": "工作台 × 持久工作流：三層記憶、驗證閘門與反幻覺協議的 DSH 側邊欄專案容器",
+  "version": "0.7.0",
+  "entry": {
+    "name": "dsh-mnemon-worktable",
+    "inject": []
+  },
+  "client": {
+    "platform": "web"
+  }
+}

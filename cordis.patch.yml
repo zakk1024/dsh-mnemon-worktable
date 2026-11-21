@@ -1,0 +1,4 @@
+# dsh-mnemon-worktable 服務端插件：工作台路由 + 持久工作流（continuity 唯讀端點）
+- insert:
+    - id: dsh-mnemon-worktable
+      name: dsh-mnemon-worktable
